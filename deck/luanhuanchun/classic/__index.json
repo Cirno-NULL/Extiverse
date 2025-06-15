@@ -12,5 +12,12 @@
     "version_code":2,
     "desc":"生日抽取。birthday为365天抽取，birthday1为含2月29日的抽取。",
     "author":"滦浣春_6hc"
+  },
+  "LCB提取(常驻池).json":{
+    "name":"LCB提取",
+    "version":"20250315",
+    "version_code":14,
+    "desc":"游戏边狱巴士公司的常驻池抽卡模拟。",
+    "author":"滦浣春_6hc"
   }
 }

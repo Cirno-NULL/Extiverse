@@ -1,13 +1,11 @@
 {
     "明日方舟-Arknights(单抽-十连).json": {
-        "name": "明日方舟",
         "version": "201111",
         "version_code": 1,
         "desc": "明日方舟干员寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
         "author": "lunzhiPenxil"
     },
     "明日方舟卡池-Arknight(卡池-[对应卡池名称]).json": {
-        "name": "明日方舟卡池",
         "version": "201111",
         "version_code": 1,
         "desc": "明日方舟卡池寻访，干员档案数据全部来自ArknightsWiKi，文案版权属于鹰角网络。在这里，你甚至可以抽出绝版暴行",
@@ -42,11 +40,21 @@
         "author": "lunzhiPenxil"
     },
     "百大Up主-百大.json": {
-        "name": "百大Up主",
+        "name": "百大Up主-百大",
         "version": "1",
         "version_code": 1,
         "desc": "bilibili百大UP主",
         "author": "lunzhiPenxil"
+    },
+    "百大Up主-百大（带图版）.json": {
+        "name": "百大Up主-百大（带图版）",
+        "version": "1",
+        "version_code": 1,
+        "desc": "bilibili百大UP主",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "百大Up主-百大（带图版）图包.zip"
+        ]
     },
     "动物森友会-动森(鱼类-虫子-花卉).json": {
         "name": "动物森友会",
@@ -69,25 +77,53 @@
         "desc": "包含艾尔登法环中的武器、防具、道具、饰品、法术、战灰。全部文案来自艾尔登法环游戏数据解包，版权归FromSoftware所有。",
         "author": "lunzhiPenxil"
     },
+    "黑暗之魂-黑魂合集（带图版）.json": {
+        "name": "黑暗之魂-黑魂合集（带图版）",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "黑暗之魂-黑魂合集（带图版）图包P1.zip",
+            "黑暗之魂-黑魂合集（带图版）图包P2.zip",
+            "黑暗之魂-黑魂合集（带图版）图包P3.zip",
+            "黑暗之魂-黑魂合集（带图版）图包P4.zip",
+            "黑暗之魂-黑魂合集（带图版）图包P5.zip"
+        ]
+    },
     "黑暗之魂-黑魂合集.json": {
-        "name": "黑暗之魂",
+        "name": "黑暗之魂-黑魂合集",
         "version": "1",
         "version_code": 1,
         "desc": "包含黑暗之魂三部曲中的武器、装备、道具、戒指、法术、生物、地点。全部文案来自黑暗之魂游戏数据解包，版权归FromSoftware所有。",
         "author": "lunzhiPenxil"
     },
-    "密教模拟器-密教-合集最终版.json": {
-        "name": "密教模拟器-合集最终版",
+    "密教模拟器-司辰（带图版）.json": {
+        "name": "密教模拟器-司辰（带图版）",
         "version": "1",
         "version_code": 1,
-        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
-        "author": "lunzhiPenxil"
+        "desc": "包含密教模拟器中司辰，且带有配图。",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "密教模拟器-司辰（带图版）图包.zip"
+        ]
+    },
+    "密教模拟器-密教合集（带图版）.json": {
+        "name": "密教模拟器-合集（带图版）",
+        "version": "20231112001",
+        "version_code": 3,
+        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物、成就、结局。",
+        "author": "lunzhiPenxil",
+        "resource": [
+            "密教模拟器-司辰（带图版）图包.zip",
+            "密教模拟器牌堆图包.zip"
+        ]
     },
     "密教模拟器-密教合集.json": {
         "name": "密教模拟器-合集",
-        "version": "1",
-        "version_code": 1,
-        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物。",
+        "version": "20231112001",
+        "version_code": 3,
+        "desc": "包含密教模拟器中司辰、地点、漫宿、召唤、能力、工具、原料、仪式、文献、密传、影响、教会、人物、成就、结局。",
         "author": "lunzhiPenxil"
     },
     "密教模拟器-密教(工具-原料-仪式).json": {
@@ -139,6 +175,20 @@
         "desc": "包含密教模拟器中的文献。",
         "author": "lunzhiPenxil"
     },
+    "密教模拟器-密教成就.json": {
+        "name": "密教模拟器-密教成就",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的成就。",
+        "author": "lunzhiPenxil"
+    },
+    "密教模拟器-密教结局.json": {
+        "name": "密教模拟器-密教结局",
+        "version": "1",
+        "version_code": 1,
+        "desc": "包含密教模拟器中的结局。",
+        "author": "lunzhiPenxil"
+    },
     "阳炎计划-阳炎(歌曲-人物).json": {
         "name": "阳炎计划",
         "version": "1",
@@ -165,6 +215,13 @@
         "version": "1",
         "version_code": 1,
         "desc": "包含了一套UNO卡牌",
+        "author": "lunzhiPenxil"
+    },
+    "达尔文奖.json": {
+        "name": "达尔文奖",
+        "version": "20240111001",
+        "version_code": 1,
+        "desc": "紀念那些「蠢死的人」的獎項，名稱來自「演化論之父」查爾斯·羅伯特·達爾文（Charles Robert Darwin），得獎者們消滅了自己的愚蠢基因而對人類的演化做出「貢獻」。",
         "author": "lunzhiPenxil"
     }
 }
